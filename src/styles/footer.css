@@ -1,0 +1,34 @@
+.footer_title{
+    color: #FFFFFF;
+    font-size: 24px;
+    font-family: poppins,sans-serif;
+    font-weight: 700;
+}
+.footer_name{
+    color: red;
+}
+.footer_about_text{
+    color: #C2D5E7;
+    font-family: "Nunito Sans", Sans-serif;
+    font-size: 16px;
+    line-height: 27px;
+    padding-right: 90px;
+    margin-top: 15px;
+}
+.footer_time{
+    color: #FFFFFF;
+    font-size: 15px;
+    line-height: 24px;
+}
+.footer_hour_text{
+    color: #C2D5E7;
+    font-family: "Nunito Sans", Sans-serif;
+    font-size: 16px;
+    line-height: 27px;
+}
+.footer_address{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}

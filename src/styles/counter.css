@@ -1,0 +1,26 @@
+.counter_container{
+    background: url("../assets/bg-section-portfolio1.jpg");
+}
+
+.counter_icon{
+    max-height: 54px;
+    width: auto;
+}
+.conter_number{
+    color: #FFFFFF;
+    font-family: poppins,sans-serif;
+    font-size: 36px;
+    line-height: 1;
+    font-weight: 700;
+    margin-bottom: 4px;
+}
+.counte_row{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.counter_text{
+    color: #FFFFFF;
+    font-weight: 700;
+}

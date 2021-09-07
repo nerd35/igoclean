@@ -1,0 +1,8 @@
+.nav-link{
+    font-weight: 700;
+    font-family: roboto,sans-serif;
+}
+
+.navlinkactive{
+    border-bottom: 3px solid red;
+}

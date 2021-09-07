@@ -1,0 +1,49 @@
+.service_title{
+    color: red;
+    font-size: 18px;
+    font-weight: 500;
+}
+.service_subtitle{
+    font-size: 36px;
+    line-height: 1.3;
+    color: #000000;
+    padding: 0 400px;
+}
+.service_text{
+    color: #666666;
+    font-size: 17px;
+    line-height: 27px;
+    
+    padding: 0 400px;
+}
+.card_container{
+    background-color: #fff;
+    padding: 54px 38px 50px;
+    box-shadow: 0 0 40px rgb(12 12 12 / 10%);
+}
+.card_service_title{
+    font-size: 22px;
+    margin-bottom: 18px;
+    color: #000;
+    line-height: 1.2;
+    margin: 0 0 15px;
+    font-weight: 700;
+}
+.card_service_text{
+    color: #666;
+    font-family: rubik,sans-serif;
+}
+
+
+
+
+
+@media screen and (max-width: 480px) {
+    .service_subtitle{
+        padding: 0 !important;
+    }
+    .service_text{
+        padding: 0 !important;
+    }
+    
+}
