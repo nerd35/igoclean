@@ -1,13 +1,12 @@
 import { NavLink } from "react-router-dom";
+import Logo from "../../assets/logo.jpg"
 
 const NavBar = () => {
   return (
     <nav className=" navbar navbar-expand-lg navbar-light">
       <div className="container">
         <div className="logo_section navbar-brand w-25">
-          <i className="fas fa-home fa-2x me-2"></i>
-          <span className="logo_text">Igoclean Services</span>
-          {/* <p className="logo_info">general cleaning & fummigation</p> */}
+          <img src={Logo} alt="logo" style={{ width: '150px', height: '80px', overflow: 'hidden', objectFit: 'contain'}}/>
         </div>
         <button
           className="navbar-toggler"

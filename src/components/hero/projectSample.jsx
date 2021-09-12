@@ -12,13 +12,13 @@ const ProjectSample = () => {
            <p className="mt-3 service_text text-light">Now you can host more parties and rely on our cleaners to do all the hard work for you. At Denver Cleaning Service Company we show your home some TLC because we care!</p>
            <div className="mt-5 row ">
             <div className="mb-3 col-md-4">
-                <img src={Portfo} alt="..." style={{ width: "100%", height: "300px"}}/>
+                <img src={Portfo} alt="..." style={{ width: "100%", height: "300px", overflow: "hidden", objectFit: "cover"}}/>
             </div>
             <div className="mb-3 col-md-4">
-                <img src={Portfo1} alt="..." style={{ width: "100%", height: "300px"}}/>
+                <img src={Portfo1} alt="..." style={{ width: "100%", height: "300px", overflow: "hidden", objectFit: "cover"}}/>
             </div>
             <div className="mb-3 col-md-4">
-                <img src={Portfo2} alt="..." style={{ width: "100%", height: "300px"}}/>
+                <img src={Portfo2} alt="..." style={{ width: "100%", height: "300px", overflow: "hidden", objectFit: "cover"}}/>
             </div>
            </div>
            </div>
