@@ -12,7 +12,7 @@ const Services = () => {
                 <div className="mb-3 col-md-4">
                     <div className="card_container">
                     <i class="fas fa-tshirt fa-3x py-4 px-3 text-light" style={{background: 'red', borderRadius: '50%'}}></i>
-                    <p className="mt-2 card_service_title">Laundry/Drycleaning	</p>
+                    <p className="mt-2 card_service_title">Laundry/ Drycleaning	</p>
                     <p className="card_service_text">Office Services, Sweeping Mopping, Kitchen Cleaning, Cleaning Emergency Clean up, Appliance Cleaning (Intrior & exterior)</p>
                     </div>
                 </div>

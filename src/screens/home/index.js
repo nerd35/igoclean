@@ -1,5 +1,5 @@
 import React from 'react'
-import { Hero, AboutAgency, Counter, Services, ProjectSample, HomeInfo } from '../../components'
+import { Hero, AboutAgency, Counter, Services, ProjectSample, HomeInfo, Ourservices } from '../../components'
 
 const index = () => {
     return (
@@ -9,6 +9,7 @@ const index = () => {
             <Counter/>
             <Services/>
             <ProjectSample/>
+            <Ourservices/>
             <HomeInfo/>
         </div>
     )

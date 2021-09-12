@@ -41,7 +41,7 @@ const AboutAgency = () => {
               className="about_image"
               style={{
                 maxWidth: "600px",
-                heigh: "auto",
+                height: "auto",
                 width: "100%",
                 boxShadow: "0px 5px 20px 0px rgb(69 67 96 / 10%)",
                 overflow: "hidden",

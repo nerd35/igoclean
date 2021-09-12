@@ -9,9 +9,9 @@ const Counter = () => {
         <div className="py-5 counter_container">
             <div className="container">
                 <div className="py-3 row">
-                    <div className="col-md-3">
+                    <div className="px-3 mb-2 col-md-3 col-sm-6">
                         <div className="counte_row">
-                            <div className="">
+                            <div className="me-3">
                                 <img src={counterIcon} alt="..." className="counter_icon" />
                             </div>
                             <div className="ms-3">
@@ -20,9 +20,9 @@ const Counter = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="col-md-3">
+                    <div className="px-3 mb-2 col-md-3 col-sm-6">
                         <div className="counte_row">
-                            <div className="">
+                            <div className="me-3">
                                 <img src={counterIcon1} alt="..." className="counter_icon" />
                             </div>
                             <div className="ms-3">
@@ -31,9 +31,9 @@ const Counter = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="col-md-3">
+                    <div className="px-3 mb-2 col-md-3 col-sm-6">
                         <div className="counte_row">
-                            <div className="">
+                            <div className="me-3">
                                 <img src={counterIcon2} alt="..." className="counter_icon" />
                             </div>
                             <div className="ms-3">
@@ -42,9 +42,9 @@ const Counter = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="col-md-3">
+                    <div className="px-3 mb-2 col-md-3 col-sm-6">
                         <div className="counte_row">
-                            <div className="">
+                            <div className="me-3">
                                 <img src={counterIcon3} alt="..." className="counter_icon" />
                             </div>
                             <div className="ms-3">
