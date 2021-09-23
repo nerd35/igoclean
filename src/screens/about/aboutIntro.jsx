@@ -26,7 +26,7 @@ const AboutIntro = () => {
                 </div>
             </div>
             <div className="mt-5 row">
-            <div className="mx-auto col-md-4">
+            <div className="mx-auto col-md-4 mb-3">
                     <img src={AboutImg1} alt="" style={{ width: '100%'}}/>
                 </div>
                 <div className=" col-md-6">
