@@ -1,0 +1,39 @@
+.about_section_title{
+    font-size: 1.5rem;
+    color: rgb(0,0,0);
+    text-transform: uppercase;
+    line-height: 1;
+    font-family: Open Sans, Arial, Helvetica, sans-serif;
+}
+.about_section_title2{
+    font-size: 1.5rem;
+    color: rgb(0,0,0);
+    text-transform: uppercase;
+    line-height: 1;
+    font-weight: 600;
+    font-family: Open Sans, Arial, Helvetica, sans-serif;
+}
+.about_subtitle{
+    font-size: 1rem;
+    font-family: 'proxima-nova', 'trebuchet ms', sans-serif;
+    text-transform: capitalize;
+    line-height: 1.1;
+    color: red;
+    font-family: Open Sans, Arial, Helvetica, sans-serif;
+}
+.about_text{
+    color: rgb(93,100,108);
+    font-weight: 400;
+
+}
+.about_subtext{
+    font-size: .8rem;
+    font-weight: 600;
+    line-height: .95;
+    color: rgb(0,0,0);
+    display: block;
+    text-transform: uppercase;
+}
+.about_service{
+    border-left: 5px solid red !important;
+}
