@@ -48,7 +48,7 @@ Our vast network of experts provides a range of commercial cleaning services, in
                 </div>
                 <div className="mx-auto mt-3 col-md-10">
                     <h1 className="about_section_title2">WE SERVE. WE CARE. WE DELIVER.</h1>
-                    <p className="about_text">For over 12 years, ServiceMaster Clean has been assisting owners and managers from all industries with their cleaning and disinfecting responsibilities. This experience has allowed us to fully understand the unique requirements of each of our clients and customize cleaning plans that perfectly accommodate their needs. Our professionals are committed to always delivering the highest quality of clean and adhere to best practices set forth by the EPA, CDC and FDA. Our local franchise owners are proud to serve their communities and always deliver superior reliability.</p>
+                    <p className="about_text">For over 12 years, IGOClean has been assisting owners and managers from all industries with their cleaning and disinfecting responsibilities. This experience has allowed us to fully understand the unique requirements of each of our clients and customize cleaning plans that perfectly accommodate their needs. Our local franchise owners are proud to serve their communities and always deliver superior reliability.</p>
                 </div>
             </div>
         </div>
