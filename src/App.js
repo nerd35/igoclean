@@ -2,7 +2,7 @@
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import { Footer, NavBar, Topnav } from "./components";
 // import { Context } from "./context/context";
-import { About, Home, Service } from "./screens";
+import { About, Home, Service, Portfolio } from "./screens";
 
 function App() {
   //  const {user} = useContext(Context);
@@ -15,6 +15,7 @@ function App() {
           <Route exact path="/" component={Home}/>
           <Route exact path="/about" component={About}/>
           <Route exact path="/services" component={Service}/>
+          <Route exact path="/portfolio" component={Portfolio}/>
         </Switch>
         <Footer/>
       </Router>
